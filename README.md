@@ -15,6 +15,6 @@ Run<br />
 Navigate to the top-level project directory boston_housing/ (that contains this README) and run one of the following commands:
 ipython notebook xxx.ipynb
 
-This will open the iPython Notebook software and project file in your browser.
-Data
+This will open the iPython Notebook software and project file in your browser.<br />
+Data<br />
 The dataset used in this project is included with the scikit-learn library (sklearn.datasets.load_boston). 
