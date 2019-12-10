@@ -11,7 +11,7 @@ This project requires Python version 3.7 and the following Python libraries inst
 Users will also need to have software installed to run and execute an iPython Notebook
 You should install [Anaconda](https://docs.anaconda.com/anaconda/install/) , which is a pre-packaged Python distribution that contains all of the necessary libraries and software for this assignment.
 
-Run
+Run<br />
 Navigate to the top-level project directory boston_housing/ (that contains this README) and run one of the following commands:
 ipython notebook xxx.ipynb
 
