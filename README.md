@@ -5,8 +5,10 @@
 ### Instalation:
 This project requires Python version 3.7 and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [Matplotlib](http://matplotlib.org/)
+- [Scikit-learn](http://scikit-learn.org/stable/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
 
 Users will also need to have software installed to run and execute an iPython Notebook
 You should install [Anaconda](https://docs.anaconda.com/anaconda/install/) , which is a pre-packaged Python distribution that contains all of the necessary libraries and software for this assignment.
